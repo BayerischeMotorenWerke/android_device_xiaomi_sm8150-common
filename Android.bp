@@ -5,7 +5,6 @@
 //
 
 soong_namespace {
-    imports: ["hardware/qcom-caf/bootctrl"],
 }
 
 soong_config_module_type {
